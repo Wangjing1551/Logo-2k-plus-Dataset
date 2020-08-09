@@ -1,7 +1,7 @@
 # <p align="center"> Logo-2K+:A Large-Scale Logo Dataset for Scalable Logo Classiﬁcation </p>
 
 ## Logo-2k+ Dataset
-![example](logo/example.png)\
+![example](logo/example.png)
 
 ## Logo-2k+ Dataset Description
 In this work, we construct a large scale logo dataset, Logo-2K+, which covers a diverse range of logo classes from real-world logo images.
